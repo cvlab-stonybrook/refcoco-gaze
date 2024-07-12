@@ -1,3 +1,5 @@
+**Notice (07/12/2024)**: This repository is currently under maintenance. You can download the dataset using the links provided below. Additional code for data visualization and analysis will be updated soon. All materials are licensed under the MIT License.
+
 # RefCOCO-Gaze Dataset
 
 ![refcocogaze-teaser](https://drive.google.com/uc?export=view&id=1U67rmU4MLBOCc9ASAnIttwlZhXdwPoUN)

@@ -1,6 +1,6 @@
 # RefCOCO-Gaze
 
-![refcocogaze-teaser](https://drive.google.com/uc?export=view&id=1U51mfvD_RBW-reUl0hk4dhs_KEaeJp0I)
+![refcocogaze-teaser](https://drive.google.com/uc?export=view&id=1U67rmU4MLBOCc9ASAnIttwlZhXdwPoUN)
 
 We introduce a large-scale dataset of speech-driven human eye movements, where they see an image and hear a referring expression defining the object in the scene (e.g., guy in back left wearing black). 
 

@@ -17,12 +17,12 @@ RefCOCO-Gaze consists of 19,738 scanpaths that were recorded while 220 participa
 
 The gaze data, recorded by an EyeLink 1000 eyetracker, includes information about the location and duration of each fixation, the bounding box of the search target, audio recordings of the referring expressions, the timing of the target word, and the synchronization between the spoken words and the sequence of fixations (tells us which word triggered which fixations). RefCOCO-Gaze covers a diverse range of linguistic and visual complexity, making it an ideal dataset for researchers studying human integration of vision and language, and HCI researchers alike. 
 
-Image Stimuli (.zip; Size: 1680x1050) [Download](https://drive.google.com/uc?id=1gOC2XMH8IIwwev0L0SmoyQRr7fYP_e60&export=download)
-Sound Files (.zip) [Download](https://drive.google.com/uc?id=1gRwUc1LVkP-pSpH0LnXYVpWii6PLPk9u&export=download)
-Word Onset Timing (.json) [Download](https://drive.google.com/uc?id=1PR1zvXA4NHijTOzmWSYgFyDNBIFFz8aJ&export=download)
-Training Gaze dataset (.json) [Download](https://drive.google.com/uc?id=1TYEe174rUCfPrdw6ZZcmfbpn692kC_U1&export=download)
-Validation Gaze dataset (.json) [Download](https://drive.google.com/uc?id=1TYi9qrGAn2jqPfAPn5LlBFxRNJ828chg&export=download)
-~~Testing Gaze dataset [Download]~~ --> 🔊We are taking down the testing data in order to set up an online benchmark, stay tuned!
+- Image Stimuli (.zip; Size: 1680x1050) [Download](https://drive.google.com/uc?id=1gOC2XMH8IIwwev0L0SmoyQRr7fYP_e60&export=download)
+- Sound Files (.zip) [Download](https://drive.google.com/uc?id=1gRwUc1LVkP-pSpH0LnXYVpWii6PLPk9u&export=download)
+- Word Onset Timing (.json) [Download](https://drive.google.com/uc?id=1PR1zvXA4NHijTOzmWSYgFyDNBIFFz8aJ&export=download)
+- Training Gaze dataset (.json) [Download](https://drive.google.com/uc?id=1TYEe174rUCfPrdw6ZZcmfbpn692kC_U1&export=download)
+- Validation Gaze dataset (.json) [Download](https://drive.google.com/uc?id=1TYi9qrGAn2jqPfAPn5LlBFxRNJ828chg&export=download)
+- ~~Testing Gaze dataset [Download]~~ --> 🔊We are taking down the testing data in order to set up an online benchmark, stay tuned!
 
 If you use RefCOCO-Gaze, please cite:
 

@@ -32,8 +32,7 @@ If you use RefCOCO-Gaze, please cite:
 @InProceedings{Mondal_2024_ECCV,
 author = {Mondal, Sounak and Ahn, Seoyoung and Yang, Zhibo and Balasubramanian, Niranjan and Samaras, Dimitris and Zelinsky, Gregory and Hoai, Minh},
 title = {Look Hear: Gaze Prediction for Speech-directed Human Attention},
-booktitle = {The European Conference on Computer Vision (ECCV)},
-month = {September},
+booktitle = {European Conference on Computer Vision (ECCV)},
 year = {2024}
 }
 ```

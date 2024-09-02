@@ -25,6 +25,7 @@ The gaze data, recorded by an EyeLink 1000 eyetracker, includes information abou
 - Training Gaze dataset (.json) [Download](https://drive.google.com/uc?id=1TYEe174rUCfPrdw6ZZcmfbpn692kC_U1&export=download)
 - Validation Gaze dataset (.json) [Download](https://drive.google.com/uc?id=1TYi9qrGAn2jqPfAPn5LlBFxRNJ828chg&export=download)
 - ~~Testing Gaze dataset [Download]~~ --> 🔊We are taking down the testing data in order to set up an online benchmark, stay tuned!
+- Dataset Info (.xlsx) [Download](link)[https://drive.google.com/uc?id=16VaVkewtzZK8Mz91sdF14c1kIKLBqHgYY6aWQoJ4zG0&export=download]
 
 If you use RefCOCO-Gaze, please cite:
 
